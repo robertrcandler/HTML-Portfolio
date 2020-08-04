@@ -3,7 +3,8 @@
   }
   
   body {
-    background-color: #f1f1f1;
+    background-image: url("./pictures/floor-tile.png");
+    background-repeat: repeat;
     padding: 20px;
     font-family: Arial;
   }
@@ -46,6 +47,7 @@
   .content {
     background-color: white;
     padding: 10px;
+    border-radius: 15px;
   }
   
   /* Responsive layout - makes a two column-layout instead of four columns */
